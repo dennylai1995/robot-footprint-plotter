@@ -7,6 +7,10 @@
 1. type in robots' footprint info in `input.yaml`
 2. run `python3 robot_plotter.py`
 
+### Tested With
+- Python: 3.8.10
+- OS: Ubuntu 20.04.6 LTS
+
 ### Terminology
 - Pose: the description of the origin of robot coordinate seen from world coordinate.
 - Footprint: the 2D projection shape of a robot.
