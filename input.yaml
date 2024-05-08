@@ -1,0 +1,7 @@
+data:
+  - robot_name: rob_0
+    pose: [-1.97, 1.60, 3.14] # x (m), y (m), theta (rad)
+    footprint: [0.62, 0.62, 0.71, 0.71] # (LW, RW, FL, BL)
+  - robot_name: rob_1
+    pose: [-3.22, 2.41, -1.57] # x (m), y (m), theta (rad)
+    footprint: [0.47, 0.47, 0.56, 0.56] # (LW, RW, FL, BL)
